@@ -1,3 +1,3 @@
-# UGVSignup
+Created by Codrops
 
-Say something i'm giving up on you
+Please read more about our license here: http://tympanus.net/codrops/licensing/ 
